@@ -7,4 +7,6 @@ java -jar demo-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev
 
 Sequel Pro
 
+study from:
+http://www.imooc.com/search/?words=springboot
 https://github.com/zhangyd-c/SpringBoot_Maven
