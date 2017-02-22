@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  context-path: /good
+name: Archimdes
+age: 33
+test: "${name},${age}"
+url: Home
+
+db:
+  url: www.google.com
+  username: root
+  password: abcd
+
